@@ -15,7 +15,7 @@ The project consists of 3 parts:
 - Notebooks
 1. `Main.ipynb` - Main Notebook with a more straight-to-the-point path to the resolution, all functions are called from their respective module, all scalers/models/transformers are loaded from pkl files.
 2. `extended_da.ipynb` - Original Notebook with all the code I used, included some additional notes, all functions are written here, before being reallocated to their respective module.
-3. `datavisualization_tableau.txt`- File containing the link to the Data Visualization presentation in Tableau, for a quicker access, click [here](https://public.tableau.com/app/profile/hector.fontenla/viz/MentalHealth_16473455406840/Story1)
+3. `datavisualization_tableau.txt`- File containing the link to the Data Visualization presentation in Tableau, for a quicker access, click [here](https://public.tableau.com/app/profile/hector.fontenla/viz/MentalHealth_16473455406840/Story1).
 
 - Custom Modules
 1. `functions.py` - Separate module with all the functions I used.
@@ -28,7 +28,7 @@ The project consists of 3 parts:
 
 ## Datasets
 
--  `data/survey` - Thanks to "OPEN SOURCING MENTAL ILLNESS, LTD" for creating this dataset, you can find it on [this link](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+-  `data/survey` - Thanks to "OPEN SOURCING MENTAL ILLNESS, LTD" for creating this dataset, you can find it on [this link](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey).
 -  `data/survey_updated` - Same Dataset, after being cleaned and processed.
 
 ## Installation:
