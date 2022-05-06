@@ -1,3 +1,5 @@
+![title](images/banner.png)
+
 ## Overview
 
 Data Analytics project about Mental Health at work. The project deep dives on attitudes from both Tech employers and employees towards mental health and mental health dissorders at work.
