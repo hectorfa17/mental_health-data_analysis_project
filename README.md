@@ -11,13 +11,15 @@ The Dataset I used belongs to "OPEN SOURCING MENTAL ILLNESS, LTD", you can find 
 - Notebooks
 1. `Main.ipynb` - Main Notebook with a more straight-to-the-point path to the resolution, all functions are called from their respective module, all scalers/models/transformers are loaded from pkl files.
 2. `extended_da.ipynb` - Original Notebook with all the code I used, included some additional notes, all functions are written here, before being reallocated to their respective module.
-3. `functions.py` - Separate module with all the functions I used.
-4. `src/4.song_recomender_function.ipynb` - Created the function "user friendly"
 
 - Libraries
-1. `src/spoty_jzar.py` - This is the class that is used as a Spotify interface
-2. `src/music_jzar.py` - this lib is used to scrap and get the raw lists
-3. `src/cluster_jzar.py` - this lib is used for clustering functions
+1. `functions.py` - Separate module with all the functions I used.
+
+- Other folders:
+1. data - Contains all the Datasets used in this project
+2. encoders - Contains all the fitted Encoders stored in pkl files.
+3. models - Contains all the fitted Models stored in pkl files.
+4. transformers - Contains all the fitted Transformers/Scalers stored in pkl files.
 
 ## Datasets
 
