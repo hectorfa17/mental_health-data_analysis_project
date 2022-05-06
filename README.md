@@ -12,7 +12,7 @@ The Dataset I used belongs to "OPEN SOURCING MENTAL ILLNESS, LTD", you can find 
 1. `Main.ipynb` - Main Notebook with a more straight-to-the-point path to the resolution, all functions are called from their respective module, all scalers/models/transformers are loaded from pkl files.
 2. `extended_da.ipynb` - Original Notebook with all the code I used, included some additional notes, all functions are written here, before being reallocated to their respective module.
 
-- Libraries
+- Custom Modules
 1. `functions.py` - Separate module with all the functions I used.
 
 - Other folders
