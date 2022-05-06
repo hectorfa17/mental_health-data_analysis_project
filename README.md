@@ -4,13 +4,18 @@
 
 Data Analytics project about Mental Health at work. The project deep dives on attitudes from both Tech employers and employees towards mental health and mental health dissorders at work.
 
-The Dataset I used belongs to "OPEN SOURCING MENTAL ILLNESS, LTD", you can find it on [this link](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+The project consists of: 
+
+- Machine Learning applying 2 Logistic Regression models to predict whether an employee would sick for mental health help or not.
+- Hypothesis testing to find out whether the mean of age of people who seek for mental health help is similar or not.
+- Data Visualization with Tableau, where I propose and answer some questions interesting insights after a thorough data exploration process.
 
 ## Contents
 
 - Notebooks
 1. `Main.ipynb` - Main Notebook with a more straight-to-the-point path to the resolution, all functions are called from their respective module, all scalers/models/transformers are loaded from pkl files.
 2. `extended_da.ipynb` - Original Notebook with all the code I used, included some additional notes, all functions are written here, before being reallocated to their respective module.
+3. `datavisualization_tableau.txt`- File containing the link to the Data Visualization presentation in Tableau, for a quicker access, click on [this link] (https://public.tableau.com/app/profile/hector.fontenla/viz/MentalHealth_16473455406840/Story1?publish=yes)
 
 - Custom Modules
 1. `functions.py` - Separate module with all the functions I used.
