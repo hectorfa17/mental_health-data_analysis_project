@@ -15,7 +15,7 @@ The Dataset I used belongs to "OPEN SOURCING MENTAL ILLNESS, LTD", you can find 
 - Libraries
 1. `functions.py` - Separate module with all the functions I used.
 
-- Other folders:
+- Other folders
 1. data - Contains all the Datasets used in this project
 2. encoders - Contains all the fitted Encoders stored in pkl files.
 3. models - Contains all the fitted Models stored in pkl files.
