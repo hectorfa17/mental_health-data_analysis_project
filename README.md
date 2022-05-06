@@ -4,11 +4,11 @@
 
 Data Analytics project about Mental Health at work. The project deep dives on attitudes from both Tech employers and employees towards mental health and mental health dissorders at work.
 
-The project consists of: 
+The project consists of 3 parts: 
 
-- Machine Learning applying 2 Logistic Regression models to predict whether an employee would sick for mental health help or not.
-- Hypothesis testing to find out whether the mean of age of people who seek for mental health help is similar or not.
-- Data Visualization with Tableau, where I propose and answer some questions interesting insights after a thorough data exploration process.
+1. Machine Learning applying 2 Logistic Regression models to predict whether an employee would sick for mental health help or not.
+2. Hypothesis testing to find out whether the mean of age of people who seek for mental health help is similar or not.
+3. Data Visualization with Tableau, where I propose and answer some questions interesting insights after a thorough data exploration process.
 
 ## Contents
 
