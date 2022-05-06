@@ -2,7 +2,9 @@
 
 ## Overview
 
-Data Analytics project about Mental Health at work based on a Dataset from Kaggle, find more information about it [here](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey). The project is a comprehensive study on attitudes from both Tech employers and employees towards mental health and mental health dissorders at work.
+Data Analytics project about Mental Health at work based on a Dataset from Kaggle, find more information about it [here](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey). 
+
+This project is a comprehensive study on attitudes from both Tech employers and employees towards mental health and mental health dissorders at work.
 
 The project consists of 3 parts: 
 
