@@ -2,7 +2,7 @@
 
 ## Overview
 
-Data Analytics project about Mental Health at work. The project deep dives on attitudes from both Tech employers and employees towards mental health and mental health dissorders at work.
+Data Analytics project about Mental Health at work based on a Dataset from Kaggle, find more information about it [here](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey). The project is a comprehensive study on attitudes from both Tech employers and employees towards mental health and mental health dissorders at work.
 
 The project consists of 3 parts: 
 
@@ -26,10 +26,16 @@ The project consists of 3 parts:
 3. models - Contains all the fitted Models stored in pkl files.
 4. transformers - Contains all the fitted Transformers/Scalers stored in pkl files.
 
-## Datasets
+## Datasets:
 
--  `data/survey` - Thanks to "OPEN SOURCING MENTAL ILLNESS, LTD" for creating this dataset, you can find it on [this link](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey).
+-  `data/survey` - Raw dataset
 -  `data/survey_updated` - Same Dataset, after being cleaned and processed.
+
+## Acknowledgements:
+
+- Thanks to "OPEN SOURCING MENTAL ILLNESS, LTD" for creating this dataset, you can find it on [this link](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey).
+
+
 
 ## Installation:
 
