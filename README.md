@@ -38,8 +38,7 @@ The project consists of 3 parts:
 - Thanks to "OPEN SOURCING MENTAL ILLNESS, LTD" for creating this dataset, you can find it on [this link](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey).
 
 
-
-## Installation:
+## Installation and use:
 
 1. Clone this repo
 2. Install all the requirements from the requirements.txt file
